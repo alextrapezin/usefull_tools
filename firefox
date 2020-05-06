@@ -1,0 +1,6 @@
+about:config
+- geo.enabled = false
+
+add-ons
+- HTTPS Everywhere
+- Mailvelope
