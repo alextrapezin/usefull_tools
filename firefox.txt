@@ -3,4 +3,5 @@ about:config
 
 add-ons
 - HTTPS Everywhere
-- Mailvelope
+- Mailvelope (brew install gnupg gpgme)
+
