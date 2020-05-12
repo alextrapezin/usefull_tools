@@ -3,5 +3,6 @@ about:config
 
 add-ons
 - HTTPS Everywhere
-- Mailvelope (brew install gnupg gpgme)
-
+- Privacy Badger
+- Cookie autodelete
+- CanvasBlocker

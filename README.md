@@ -1,1 +1,3 @@
-# usefull_tools
+# Полезные скрипты для ежедневных целей
+
+* [proxychains](proxychains) - Группа скриптов по автоматизации работы с proxychains
