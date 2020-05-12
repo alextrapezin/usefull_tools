@@ -1,0 +1,7 @@
+about:config
+- geo.enabled = false
+
+add-ons
+- HTTPS Everywhere
+- Mailvelope (brew install gnupg gpgme)
+
